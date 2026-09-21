@@ -1,0 +1,6 @@
+{
+  "name": "RentBack",
+  "description": "Interactive rental marketplace platform with user identity verification, AI product inspection, secure booking, delivery tracking, and damage protection in Egypt.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
